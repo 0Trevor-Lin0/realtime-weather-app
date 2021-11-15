@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AACA,UAEE,QAAS,CACT,SAGF,CAEA,gBAJE,WAAY,CACZ,UAMF","file":"main.7ab0c5d2.chunk.css","sourcesContent":["/* ./src/styles.css */\nhtml,\nbody {\n  margin: 0;\n  padding: 0;\n  height: 100%;\n  width: 100%;\n}\n\n#root {\n  height: 100%;\n  width: 100%;\n}\n"]}
